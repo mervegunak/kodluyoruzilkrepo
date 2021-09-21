@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.Bu repo
-içerisinde bir adet README.md ve index.html dosyası 
+içerisinde bir adet README.md, index.html dosyası ve .gitignore dosyası bulunmaktadır.
 
 ![](/home/merve/Pictures/project_ss.png)
 
